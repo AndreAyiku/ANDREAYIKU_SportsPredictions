@@ -1,4 +1,0 @@
-streamlit
-scikit-learn==VERSION
-pandas
-joblib==VERSION  # if you use joblib
